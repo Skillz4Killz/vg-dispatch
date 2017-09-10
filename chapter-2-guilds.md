@@ -2,8 +2,7 @@
 
 Guilds are one of the core features of Vainglory that truly makes players want to continue playing. It’s a feature that allows players to build a connection with others on a level that simply would not exist if guilds had never been implemented. However, guilds right now just do not have the proper tools to help build the best possible communities. With the proper tools, guilds can help fix many issues prevalent in the Vainglory community today. In properly maintained guilds, problems such as toxicity, insta-locking, rage-pinging, cyberbullying and many more can be fixed. Not only do guilds help to solve issues, but they also help players grow by allowing them to learn from those they forge a relationship with. Guilds are a great feature that can help empower the community and thus improve it, but without the proper tools, this can never be truly accomplished.
 
-Note: This is not a complete list of features needed to the guilds system but an addition to the list created in the first edition of Dispatch.  
-
+Note: This is not a complete list of features needed to the guilds system but an addition to the list created in the first edition of Dispatch.
 
 ## Prime Times
 
@@ -35,9 +34,7 @@ _**NEED A DESIGN HERE SHOWING THIS PLAYER SWAPPING**_
 
 ## Teamwork
 
-To help incentivize teamwork amongst allied guilds, there should be a reward for playing with other allies. So when allied guilds play with each other, and/or are allies in a party and playing together, they should both receive some reward, such as 75% fame per allied guild member per match as opposed to the 100% you would gain from playing with your own guild member. For example, if playing with a guild member you get 100 fame, then playing with an ally will net 75 fame.
-
-_**NEED A DESIGN HERE SHOWING THIS FAME POST MATCH**_
+To help incentivize teamwork amongst allied guilds, there should be a reward for playing with other allies. So when allied guilds play with each other, and/or are allies in a party and playing together, they should both receive some reward, such as 75% fame per allied guild member per match as opposed to the 100% you would gain from playing with your own guild member. For example, if playing with a guild member you get 100 fame, then playing with an ally will net 75 fame.![](/assets/Fame XP.jpg)
 
 ### Guild Types
 
@@ -61,7 +58,7 @@ Rivals are automatically added and removed based on the level of a guild, the ty
 
 When a guild faces a rival in Matchmaker, it should be Winner-Take-All. So when a guild beats their rivals, they get double fame and double glory. The losing guild do not gain any fame nor glory for that match. It creates a real competition for guilds to be the best and come out as victors.
 
-_**NEED A DESIGN HERE SHOWING THIS FAME POST MATCH**_
+![](/assets/IMG_0182.jpg)![](/assets/IMG_0182%282%29.jpg)
 
 #### Matchmaker
 
@@ -88,7 +85,7 @@ Ranks are the placement on the Leaderboard based on Fame.
 
 * * Based upon the sum total of every guild member’s fame count.
 
-_**NEED A DESIGN HERE SHOWING THIS LEADERBOARDS**_
+![](/assets/image.jpg)
 
 ### Guild Trophies/Rewards
 
@@ -178,7 +175,7 @@ leaderboard by 2%, up to a maximum bonus of 100%. If a member is removed for wha
 
 _**NEED A DESIGN HERE SHOWING THIS Badges, Join Date, Decay**_
 
-##  Raising The Bar
+## Raising The Bar
 
 One of the biggest hurdles in the guild system is the fifty guild member limit. Raising this limit can actually solve a majority of guild issues such as sister guilds splintering, a lack of community within guilds, as well as without, and the fact that guilds have to break themselves up just to have more than fifty members.
 
@@ -216,7 +213,7 @@ _**NEED A DESIGN HERE SHOWING THIS casual/competitive systems**_
 
 ## Invite/Kick Log
 
-A log of players joining or leaving a guild or team is essential to its survival and growth. It is important to be able to know a few different details in regards to a join/leave event. 
+A log of players joining or leaving a guild or team is essential to its survival and growth. It is important to be able to know a few different details in regards to a join/leave event.
 
 ### Invite Log
 
@@ -237,9 +234,4 @@ A log of players joining or leaving a guild or team is essential to its survival
 * Reason for removal
 
 NEED A DESIGN HERE SHOWING THIS logs
-
-  
-
-
-
 
