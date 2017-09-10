@@ -72,9 +72,21 @@ Players commonly complain about accidentally purchasing an item. Items should be
 
 _**NEED A DESIGN HERE SHOWING THIS Sell at full cost**_
 
-  
+## Improving Karma 
 
+Karma is a system that needs a huge overhaul and a detailed suggestion was provided in the first edition of Dispatch. What was not mentioned in the first edition is how to gain or lose Karma and improving this sytem. Currently, the only way to gain or lose karma is by receiving thumbs up or thumbs down. Thumbs up have almost no function except giving a person a slightly higher karma. But when karma does not have nearly any function except a small glory boost which is not an immediate satisfaction, users feel as if karma is broken. Every player that was spoken to believed that "giving thumbs up or down does nothing". Although when asked in detail they were aware that the karma system gave extra glory but to their satisfaction this was meaningless. User satisfaction is mostly derived in a gamer from an immediate action instead of a prolong after affect.
 
-  
+In order to give users this immediate satisfaction the function of thumbs up and down needed to be adjusted. When player A thumbs up player B or C, that player B or C recieve 5\* glory. Five glory is a good amount as it is not too much that users will not give thumbs up but it is a an amount that users will feel like this thumbs up meant something. That player B helped do an amazing job last match so they deserve a thank you gift. A thumbs up should also grant more karma to a player because of its higher cost to send one. 5\* Glory is also an amount that is small enough that can not be abused.
+
+No! Stop thinking about it! A thumbs down will not take 5 Glory from the other player. ;\) 
+
+Giving a thumbs down will cost 5 glory but this Glory will dissapear but have a much larger impact on the receiving players karma.
+
+_Note: These changes will only apply to teammates and not enemies._
+
+_\*: 5 Glory is based on a Standard Game Mode. Battle Royale, and Blitz will be lowered as they are shorter matches._
+
+_**NEED A DESIGN HERE SHOWING PLAYER RECEIVING EXTRA GLORY NOTIFICATION AND AN ALERT THAT VOTES COST 5 GLORY EACH**_
+
 
 
