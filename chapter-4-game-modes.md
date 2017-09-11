@@ -93,15 +93,15 @@ To fix this problem of players not knowing what to draft and how to draft, it is
 
 Every player should have access to some sort of draft mode when ranking. Draft mode is important because it requires getting players accustomed to draft from the beginning. By holding players away from draft and suddenly forcing it on them at around tiers 6-7 they are now having problems not understanding it just as beginners will have issues at tier 1. Draft mode should come in increments of difficulty as players rise through the ranks of visual skill tier.
 
-* Just Beginning - Worthy Foe:Draft with no bans and players are able to pick heroes that enemies have picked.
+* Just Beginning - Worthy Foe: Draft with no bans and players are able to pick heroes that enemies have picked.
 
-* Got Swagger - Credible Threat:Draft with no bans but players are not able to pick the same heroes if the enemy has picked it.
+* Got Swagger - Credible Threat: Draft with no bans but players are not able to pick the same heroes if the enemy has picked it.
 
-* Hotness - Simply Amazing:Single Ban Draft
+* Hotness - Simply Amazing: Single Ban Draft
 
-* Pinnacle of Awesome - Vainglorious:Double ban draft
+* Pinnacle of Awesome - Vainglorious: Double ban draft
 
-Draft Hero Selection:
+## Draft Hero Selection:
 
 One of the major changes that can be made to draft mode is a revamp of the current hero upvote/downvote process. It is absolutely necessary to know which of your teammates upvoted which hero. For example, you are selecting a hero for your captain in SoloQ, and see Phinn upvoted, and select him, but it then turns out that it was the third player who upvoted Phinn, and your captain has absolutely no experience with Phinn, making that match frustrating for him, and likely leading to your loss. Thus, a simple extra feature can be added where every upvote or downvote has a name attached to it, so you know who did it.
 
@@ -120,9 +120,6 @@ One of the biggest things lacking in Battle Royale is the Battle Royale Score. B
 Another thing lacking in brawl modes is trophies. With Ranked, you have trophies that are saved and the player can see whenever they want, but for majority of the playerbase that plays brawl modes, there is no form of trophies or achievements that a person can collect.
 
 NEED A DESIGN HERE SHOWING THIS BRAWL VST/TROPHIES
-
-  
-
 
 ### Blitz
 
@@ -145,9 +142,6 @@ NEED A DESIGN HERE SHOWING THIS Talents icons
 It would be an huge user experience improvement for every player to be able to have the ability to see which heroes have already been used for this chest.
 
 NEED A DESIGN HERE SHOWING THIS CHEST ICONS
-
-  
-
 
 The chest gives the same reward no matter if you won or lost with a hero. The rewards should be based on victory where if you win with a hero you get a higher reward for that specific hero as opposed to losing with that hero. Losing with a hero can maintain the same amount of rewards as it is currently, and winning can be a bit higher in order to satisfy every player.
 
@@ -195,7 +189,4 @@ This game mode could be made for 3v3 and 5v5. At the start of Hero select, each 
 Note: Not nominating a Hero is akin to that of dodging.
 
 NEED A DESIGN HERE SHOWING THIS same picking hero
-
-  
-
 

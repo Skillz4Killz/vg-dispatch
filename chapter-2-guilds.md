@@ -2,8 +2,7 @@
 
 Guilds are one of the core features of Vainglory that truly makes players want to continue playing. It’s a feature that allows players to build a connection with others on a level that simply would not exist if guilds had never been implemented. However, guilds right now just do not have the proper tools to help build the best possible communities. With the proper tools, guilds can help fix many issues prevalent in the Vainglory community today. In properly maintained guilds, problems such as toxicity, insta-locking, rage-pinging, cyberbullying and many more can be fixed. Not only do guilds help to solve issues, but they also help players grow by allowing them to learn from those they forge a relationship with. Guilds are a great feature that can help empower the community and thus improve it, but without the proper tools, this can never be truly accomplished.
 
-Note: This is not a complete list of features needed to the guilds system but an addition to the list created in the first edition of Dispatch.  
-
+_Note: This is not a complete list of features needed to the guilds system but an addition to the list created in the first edition of Dispatch._
 
 ## Prime Times
 
@@ -15,7 +14,9 @@ Prime time itself should be removed, as it causes misunderstandings and is ultim
 
 Instead of prime time being a filter in the guild search, create a number of active players at certain timeslots as a filter. When a player needs to find a Guild, they can enter a number of players and a time slot \(such as 1pm, 5am, 10pm, etc\), and then the guilds that meet the requirement of the set amount of players on average playing at the inputted time slot are displayed. For example, if a player searches with a filter of 10 PM and five players this will show a list of guilds that have a minimum of five players at 10 PM. Using the Vainglory API it can easily be determined the usual playing times of guild members and this field can be made to be automated so that guild leaders do not have to input any such number.
 
-_**NEED A DESIGN HERE SHOWING THIS SEARCH FILTERS**_
+![](https://cdn.discordapp.com/attachments/282659428229185546/356321671663190016/EZL.jpg) 
+
+Figure 7: 
 
 ## Alliance/Rival System
 
@@ -45,13 +46,13 @@ The current guild types are casual, competitive, semi-competitive and, school. T
 
 Changing these to have a better impact and understanding on guilds is crucial to fixing the guild system.
 
-* Casual: A guild type that will not allow the guild to have or be a rival to another guild. This guild will serve as a home to guilds that do not want to compete against other guilds.
+* **Casual:** A guild type that will not allow the guild to have or be a rival to another guild. This guild will serve as a home to guilds that do not want to compete against other guilds.
 
-* Competitive: A guild type that will serve to have rivals\* and become rivals against others as well as well in order to compete on a daily basis. This is the only guild type that should be shown on guild leaderboards. Leaderboards are competitive in nature and must therefore reflect only competitive guilds. Guild Rewards/Trophies\* as explained below will only be available to competitive guilds.
+* **Competitive:** A guild type that will serve to have rivals\* and become rivals against others as well as well in order to compete on a daily basis. This is the only guild type that should be shown on guild leaderboards. Leaderboards are competitive in nature and must therefore reflect only competitive guilds. Guild Rewards/Trophies\* as explained below will only be available to competitive guilds.
 
-* Semi-Competitive: a guild type that will serve to have rivals and become rivals against others in this guild type BUT semi-competitive guilds to not have the bonus of Spoils of War. They simply get the bragging rights of victory.
+* **Semi-Competitive:** a guild type that will serve to have rivals and become rivals against others in this guild type BUT semi-competitive guilds to not have the bonus of Spoils of War. They simply get the bragging rights of victory.
 
-* School: Remove this guild type. If “School” represents a guild for players to learn and grow then every guild should serve as a place to teach others. If it represents players that are in “school” like high school or college and can’t be active then it uses “Casual” guild type.
+* **School:** Remove this guild type. If “School” represents a guild for players to learn and grow then every guild should serve as a place to teach others. If it represents players that are in “school” like high school or college and can’t be active then it uses “Casual” guild type.
 
 _\*: Explained below in Spoils of War section._
 
@@ -178,7 +179,7 @@ leaderboard by 2%, up to a maximum bonus of 100%. If a member is removed for wha
 
 _**NEED A DESIGN HERE SHOWING THIS Badges, Join Date, Decay**_
 
-##  Raising The Bar
+## Raising The Bar
 
 One of the biggest hurdles in the guild system is the fifty guild member limit. Raising this limit can actually solve a majority of guild issues such as sister guilds splintering, a lack of community within guilds, as well as without, and the fact that guilds have to break themselves up just to have more than fifty members.
 
@@ -216,7 +217,7 @@ _**NEED A DESIGN HERE SHOWING THIS casual/competitive systems**_
 
 ## Invite/Kick Log
 
-A log of players joining or leaving a guild or team is essential to its survival and growth. It is important to be able to know a few different details in regards to a join/leave event. 
+A log of players joining or leaving a guild or team is essential to its survival and growth. It is important to be able to know a few different details in regards to a join/leave event.
 
 ### Invite Log
 
@@ -237,9 +238,4 @@ A log of players joining or leaving a guild or team is essential to its survival
 * Reason for removal
 
 NEED A DESIGN HERE SHOWING THIS logs
-
-  
-
-
-
 
