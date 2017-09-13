@@ -38,6 +38,8 @@ Contact: [https://discord.gg/VHVY7rb](https://discord.gg/VHVY7rb)
 
 ScarletZero:
 
+Omecats: Lead Band Mod at EZL
+
 ## Translators
 
 
