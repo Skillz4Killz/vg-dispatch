@@ -14,7 +14,7 @@ Prime time itself should be removed, as it causes misunderstandings and is ultim
 
 Instead of prime time being a filter in the guild search, create a number of active players at certain timeslots as a filter. When a player needs to find a Guild, they can enter a number of players and a time slot \(such as 1pm, 5am, 10pm, etc\), and then the guilds that meet the requirement of the set amount of players on average playing at the inputted time slot are displayed. For example, if a player searches with a filter of 10 PM and five players this will show a list of guilds that have a minimum of five players at 10 PM. Using the Vainglory API it can easily be determined the usual playing times of guild members and this field can be made to be automated so that guild leaders do not have to input any such number.
 
-_**NEED A DESIGN HERE SHOWING THIS SEARCH FILTERS**_
+![](/assets/online.jpg)![](/assets/Filter.jpg)
 
 ## Alliance/Rival System
 
