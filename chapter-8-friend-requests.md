@@ -10,9 +10,7 @@ Another issue that arises with accepting friend requests is that when you accept
 
 ### Auto-Accepting Requests
 
-Some players just love to have all the friends in the world. However, accepting every request can get tedious. Creating a setting that allows a user to turn on Auto-Accept Requests will cause any request sent to that player to be automatically accepted. These players would be added to the New Friend list with a small symbol showing they were accepted automatically. The symbol would be removed at the same time when the player is removed from the ‘New Friends’ tab.
-
-_**NEED A DESIGN HERE SHOWING THIS option**_
+Some players just love to have all the friends in the world. However, accepting every request can get tedious. Creating a setting that allows a user to turn on Auto-Accept Requests will cause any request sent to that player to be automatically accepted. These players would be added to the New Friend list with a small symbol showing they were accepted automatically. The symbol would be removed at the same time when the player is removed from the ‘New Friends’ tab.![](/assets/newsection copy copy.jpg)
 
 ### Pending Requests
 
