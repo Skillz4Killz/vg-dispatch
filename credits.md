@@ -38,7 +38,7 @@ Contact: [https://discord.gg/VHVY7rb](https://discord.gg/VHVY7rb)
 
 ScarletZero:
 
-Omecats: Lead Band Mod at EZL, Co-Admin of Vainglory Community Band
+Omecats: Lead Band Mod at EZL, Co-Admin of Vainglory Community Band \(&lt;--- should I put these here?\)
 
 ## Translators
 
