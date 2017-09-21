@@ -12,5 +12,8 @@
 * [Chapter 9: User Satisfaction](chapter-9-user-satisfaction.md)
 * [Chapter 10: Currencies](chapter-10-currencies.md)
 * [Chapter 11: Vainglory API](chapter-11-vainglory-api.md)
+* Chapter 12: Tournaments
+* Chapter 13: Halcyon Gatherings
+* Chapter 14: Community Events
 * [Credits](credits.md)
 
