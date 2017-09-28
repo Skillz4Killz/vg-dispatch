@@ -121,9 +121,6 @@ Another thing lacking in brawl modes is trophies. With Ranked, you have trophies
 
 NEED A DESIGN HERE SHOWING THIS BRAWL VST/TROPHIES
 
-  
-
-
 ### Blitz
 
 Blitz has become the most played game mode very quickly. Based on the data from the API, Blitz is played a lot more as compared to other game modes.
@@ -136,18 +133,13 @@ NEED A DESIGN HERE SHOWING THIS menu options
 
 #### Talents At Hero Selection
 
-When selecting a hero in game for a blitz match, there is no way to read about the heroes talents. Currently, a player can read the abilities descriptions and tips of how to use them but it is not possible to read about talents. Furthermore, a cool user experience improvement would be to allow a quick buy/upgrade option of talents once the hero is selected.
-
-NEED A DESIGN HERE SHOWING THIS Talents icons
+When selecting a hero in game for a blitz match, there is no way to read about the heroes talents. Currently, a player can read the abilities descriptions and tips of how to use them but it is not possible to read about talents. Furthermore, a cool user experience improvement would be to allow a quick buy/upgrade option of talents once the hero is selected.![](/assets/IMG_6920.jpg)
 
 #### 5 Hero Daily Chest
 
 It would be an huge user experience improvement for every player to be able to have the ability to see which heroes have already been used for this chest.
 
 NEED A DESIGN HERE SHOWING THIS CHEST ICONS
-
-  
-
 
 The chest gives the same reward no matter if you won or lost with a hero. The rewards should be based on victory where if you win with a hero you get a higher reward for that specific hero as opposed to losing with that hero. Losing with a hero can maintain the same amount of rewards as it is currently, and winning can be a bit higher in order to satisfy every player.
 
@@ -195,7 +187,4 @@ This game mode could be made for 3v3 and 5v5. At the start of Hero select, each 
 Note: Not nominating a Hero is akin to that of dodging.
 
 NEED A DESIGN HERE SHOWING THIS same picking hero
-
-  
-
 
