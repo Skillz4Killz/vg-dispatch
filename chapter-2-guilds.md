@@ -28,9 +28,7 @@ _**NEED A DESIGN HERE SHOWING THIS ALLIANCE TAB**_
 
 ## Swapping Members
 
-In order to transfer a guild member to another allied guild without any damage to guild status and seasonal fame, it must require a player swap. This means that a player can not be sent to an allied guild without another player from the allied guild being swapped with said player. If a player is in an allied guild as a result of a swap, and then is kicked from the allied guild; the player swap is cancelled resulting in the player returning to the original guild.
-
-_**NEED A DESIGN HERE SHOWING THIS PLAYER SWAPPING**_
+In order to transfer a guild member to another allied guild without any damage to guild status and seasonal fame, it must require a player swap. This means that a player can not be sent to an allied guild without another player from the allied guild being swapped with said player. If a player is in an allied guild as a result of a swap, and then is kicked from the allied guild; the player swap is cancelled resulting in the player returning to the original guild.![](/assets/IMG_6916.JPG)
 
 ## Teamwork
 
@@ -147,9 +145,7 @@ _**NEED A DESIGN HERE SHOWING THIS Trophies/Rewards**_
 
 ### Chats
 
-Although there is already a guild chat, in order to fully integrate an alliance system, there will need to be a chat for the entire alliance. Guilds would still have their own chatroom for Intra-Guild discussions In-Guild stuff. There also needs to be a way for guild leaders and officers to be able to moderate the chats, both guild and alliance. Currently, there is no form of moderation for the guild chatroom, which leads to many guilds having to ask their members to not use the chat.
-
-_**NEED A DESIGN HERE SHOWING THIS Moderating Features And Alliance Chat**_
+Although there is already a guild chat, in order to fully integrate an alliance system, there will need to be a chat for the entire alliance. Guilds would still have their own chatroom for Intra-Guild discussions In-Guild stuff. There also needs to be a way for guild leaders and officers to be able to moderate the chats, both guild and alliance. Currently, there is no form of moderation for the guild chatroom, which leads to many guilds having to ask their members to not use the chat.![](/assets/IMG_6915.JPG)
 
 ### Loyalty
 
@@ -171,9 +167,7 @@ The longer a player stays in a specific guild, the higher the rank of their “L
 
 Each level in a badge increases the chance of better rewards from the guild chest, and the
 
-leaderboard by 2%, up to a maximum bonus of 100%. If a member is removed for whatever reason their badge levels begins to decay every 48 hours. This means if the removal was by accident or the decision is cancelled, the player has 48 hours to reach out to the guild leaders and be re-invited back. If they are unable to rejoin, the badge level will continue to decay until hitting 0. If they join another guild during this time the level will automatically hit 0. Losing seasonal fame from being removed from a guild has been a concern for many players. Using the loyalty badges, this issue can also be solved. For example, if a player has a badge of any level, their fame will not be reduced to 0 and they will retain their guild membership \(initiate, member, veteran\) until the level hits 0. Once the loyalty badge level is 0, everything from that guild has reset. Switching guilds within an alliance will not cause a decay of loyalty but the loyalty badge levels will not be increasing during the time spent in an allied guild.
-
-_**NEED A DESIGN HERE SHOWING THIS Badges, Join Date, Decay**_
+leaderboard by 2%, up to a maximum bonus of 100%. If a member is removed for whatever reason their badge levels begins to decay every 48 hours. This means if the removal was by accident or the decision is cancelled, the player has 48 hours to reach out to the guild leaders and be re-invited back. If they are unable to rejoin, the badge level will continue to decay until hitting 0. If they join another guild during this time the level will automatically hit 0. Losing seasonal fame from being removed from a guild has been a concern for many players. Using the loyalty badges, this issue can also be solved. For example, if a player has a badge of any level, their fame will not be reduced to 0 and they will retain their guild membership \(initiate, member, veteran\) until the level hits 0. Once the loyalty badge level is 0, everything from that guild has reset. Switching guilds within an alliance will not cause a decay of loyalty but the loyalty badge levels will not be increasing during the time spent in an allied guild.![](/assets/IMG_6914.JPG)
 
 ## Raising The Bar
 
