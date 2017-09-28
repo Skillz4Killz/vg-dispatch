@@ -14,9 +14,7 @@ Sunlight levels should help to determine the type of chest the daily chest will 
 
 Two Chests will still be able to be stored as usual.
 
-Note: Resources given by the daily chest will be significantly less than that of the chest given by leveling up. The chest type is to signify that the rewards would be greater than the prior chest, & the probability of receiving better rewards is increased.
-
-_**NEED A DESIGN HERE SHOWING THIS chests and levels**_
+Note: Resources given by the daily chest will be significantly less than that of the chest given by leveling up. The chest type is to signify that the rewards would be greater than the prior chest, & the probability of receiving better rewards is increased.![](/assets/Sunlight100.jpg)![](/assets/SunlightChest.jpg)
 
 ## Skin Disincentivization
 
